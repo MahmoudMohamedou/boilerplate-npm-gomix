@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mahmoud",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,8 +7,5 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+	"author": "Mahmoud Mohamedou"
 }
